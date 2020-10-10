@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Rebekah Larsen"
+title: "Rebekah Larsen, PhD"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

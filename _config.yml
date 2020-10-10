@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Rebekah Larsen, Media and User Researcher"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Rebekah Larsen"
 description              : &description "personal description"
 url                      : https://ral73.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Rebekah Larsen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD Candidate @ University of Cambridge, Department of Sociology. Interested in understanding users and technology with empathy."
   location         : "Boston, MA"
   employer         : "University of Cambridge"
   pubmed           : 

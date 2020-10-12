@@ -6,7 +6,7 @@ excerpt: 'Abstract: Networks are almost ubiquitous in the social sciences, in te
 date: 2020-07-22
 venue: 'New Media and Society'
 paperurl: 'https://journals.sagepub.com/doi/full/10.1177/1461444820912534'
-citation: 'Larsen, Rebekah. (2009). &quot;Mapping Right to be Forgotten frames: Reflexivity and empirical payoffs at the intersection of network discourse and mixed network methods&quot; <i>New Media and Society</i>. 22(7).'
+citation: 'Larsen, Rebekah. (2020). &quot;Mapping Right to be Forgotten frames: Reflexivity and empirical payoffs at the intersection of network discourse and mixed network methods&quot; <i>New Media and Society</i>. 22(7).'
 ---
 
 

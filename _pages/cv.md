@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+
+[Download full CV here] (/files/Rebekah-Larsen-CV.pdf)
+
 Education
 ======
 * B.A. in Science, Technology, and Society Studies (STS), University of Pennsylvania, 2012
@@ -17,14 +20,16 @@ Education
 
 Work Experience
 ======
-* 2012 - 2014: Legal Assistant
-  * Skarzynski Black LLC (civil litigation firm)
-  * Duties included: Tagging issues
-
-* Fall 2015: Research Assistant
+* 2015 - 2018: Founding Member and 
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+
+* 2012 - 2014: Legal Assistant (Skarzynski Black, NYC)
+  * 
+  * Duties included: Tagging issues
+
+
   
 Skills
 ======

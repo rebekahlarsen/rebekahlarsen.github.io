@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Science, Technology, and Society Studies (STS), University of Pennsylvania, 2012
+* M.A. in Technology Policy, Judge Business School, University of Cambridge, 2015
+* Ph.D in Sociology, University of Cambridge, 2020 (expected)
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 2012 - 2014: Legal Assistant
+  * Skarzynski Black LLC (civil litigation firm)
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
 * Fall 2015: Research Assistant
   * Github University
@@ -29,12 +28,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Mixed methods sociological research 
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 2
+* Skill 4
 
 Publications
 ======

@@ -18,22 +18,28 @@ Education
 * M.A. in Technology Policy, Judge Business School, University of Cambridge, 2015
 * Ph.D in Sociology, University of Cambridge, 2020 (expected)
 
-Work Experience
+Work Experience 
 ======
-* 2015 - 2018: Founding Member and 
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2015 - 2018: Founding Member and Market/User Researcher (The Whistle)
+  * Helped launch an academic startup developing an online information verification reporting platform for human rights violations. 
+  * Led market research efforts surveying information verification practices and stakeholders. 
+    * Developed research protocal and mapped field based on platform practices, outputs, and funding. 
+    * Conducted content analysis and interviewed journalists, activists, and startups involved in online information verification practices.
+  * Authored and presented findings to stakeholders (journalists, academics, and practitioners) in workshops and seminars.
 
-* 2012 - 2014: Legal Assistant (Skarzynski Black, NYC)
+* 2015 - 2016: Research Assistant (Faculty of Law, University of Cambridge)
+  *
+
+* 2012 - 2014: Legal Assistant (Skarzynski Black)
   * 
-  * Duties included: Tagging issues
+  * 
 
-
+* 2009 - 2012: Content Assistant (WXPN, Philadelphia National Public Radio affiliate)
+  *
   
 Skills
 ======
-* Mixed methods sociological research 
+* Mixed methods research 
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3

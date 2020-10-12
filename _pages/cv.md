@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-[Download full CV here] (/files/Rebekah-Larsen-CV.pdf)
+[Download full CV here](/files/Rebekah-Larsen-CV.pdf)
 
 Education
 ======
@@ -28,21 +28,22 @@ Work Experience
   * Authored and presented findings to stakeholders (journalists, academics, and practitioners) in workshops and seminars.
 
 * 2015 - 2016: Research Assistant (Faculty of Law, University of Cambridge)
-  *
+  * Conducted qualitative case analysis of different EU member states’ approaches to updated privacy laws.
+  * Co-organized an industry-focused conference on data protection regulation, collaborating with data privacy lawyers in producing research report.
+
 
 * 2012 - 2014: Legal Assistant (Skarzynski Black)
   * 
   * 
 
 * 2009 - 2012: Content Assistant (WXPN, Philadelphia National Public Radio affiliate)
-  *
+  * 
   
 Skills
 ======
 * Mixed methods research 
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+  * Qualitative: 
+  * Quantitative: 
 * Skill 2
 * Skill 4
 

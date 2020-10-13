@@ -1,14 +1,12 @@
 ---
-title: "Undergraduate teaching - University of Cambridge, Department of Sociology"
+title: "Supervising and Lecturing"
 collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/2018-spring-teaching-1
 venue: "University of Cambridge, Department of Sociology"
-date: 2018-01-01
+date: 2016 - 2019
 location: "Cambridge, UK"
 ---
-
-Teaching experience (creating and presenting lecture materials; supervising) with Cambridge University undergraduate students.
 
 
 Sociology 3: Modern Societies (2017 - 2019)

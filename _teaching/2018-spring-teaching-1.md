@@ -8,6 +8,11 @@ date: 2016 - 2019
 location: "Cambridge, UK"
 ---
 
+See sample lecture materials [here](https://prezi.com/fq1zy3gjdwol/?token=2b7a04e3be31a084e075a3a6e925695f2b285de8fff456e3ed1f9a210ad4215b).
+
+<br/><img src='/images/privacy-lecture-slide.png'>
+
+
 
 Sociology 3: Modern Societies (2017 - 2019)
 ======
@@ -30,8 +35,4 @@ Sociology 7: Media, Culture, and Society (2016, 2019)
 * Created and presented lecture materials to Cambridge University undergraduates on modern privacy and surveillance issues.
 
 
-<br/>
 
-See sample lecture materials [here](https://prezi.com/fq1zy3gjdwol/?token=2b7a04e3be31a084e075a3a6e925695f2b285de8fff456e3ed1f9a210ad4215b).
-
-<br/><img src='/images/privacy-lecture-slide.png'>

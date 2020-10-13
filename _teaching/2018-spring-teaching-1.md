@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/2018-spring-teaching-1
 venue: "University of Cambridge, Department of Sociology"
-date: 2016 - 2019
+date: 2019-01-01
 location: "Cambridge, UK"
 ---
 

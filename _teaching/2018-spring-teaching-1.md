@@ -1,20 +1,28 @@
 ---
-title: "Teaching experience 1"
+title: "Media Sociology Teaching - Unviersity of Cambridge"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate courses"
+permalink: /teaching/2018-spring-teaching-1
+venue: "University of Cambridge, Department of Sociology"
+date: 2018-01-01
+location: "Cambridge, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching experience (creating and presenting lecture materials; supervising) with Cambridge University undergraduate students.
 
-Heading 1
+Sociology 7: Media, Culture, and Society (2017)
 ======
 
-Heading 2
+
+
+
+Sociology 3: Modern Societies (2017 - 2019)
 ======
 
-Heading 3
-======
+* Supervised several students over the course of the digital societies module. This entailed grading essays and teaching in-person seminars to supplement lecture materials.
+* Created and presented lecture materials to Cambridge University undergraduates on intersectionism and modern privacy and surveillance issues.
+<br/>
+
+See sample lecture materials [here](https://prezi.com/fq1zy3gjdwol/?token=2b7a04e3be31a084e075a3a6e925695f2b285de8fff456e3ed1f9a210ad4215b).
+
+<br/><img src='/images/privacy-lecture-slide.png'>"

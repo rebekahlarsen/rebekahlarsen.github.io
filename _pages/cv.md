@@ -21,7 +21,7 @@ Education
 Work Experience 
 ======
 * 2015 - 2018: Founding Member and Market/User Researcher (The Whistle)
-  * Helped launch an academic startup developing an online information verification reporting platform for human rights violations. 
+  * <b>Launched an academic startup as a team, developing an online information verification reporting platform for human rights violations</b>. 
   * Led market research efforts surveying information verification practices and stakeholders. 
     * Developed research protocal and mapped field based on platform practices, outputs, and funding. 
     * Conducted content analysis and interviewed journalists, activists, and startups involved in online information verification practices.
@@ -44,8 +44,9 @@ Skills
 * Mixed methods research 
   * Qualitative: 
   * Quantitative: 
-* Skill 2
-* Skill 4
+* Project management
+* Effective collaboration on diverse teams
+  * 
 
 Publications
 ======
@@ -65,6 +66,11 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Extracurricular, Service, and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* Avid rock climber and runner. Awarded a Collier Grant from the MIT Outdoor Club (2019 - 2020) to further outdoor inclusivity. Significant experience with outdoor environments, particularly in New England, the UK and the American West (Utah).
+* Digital methods training certificates from the University of Amsterdam's Digital Methods Institute (2018) and Boston University Department of Emerging Media Studies (2017).
+* Experience with collaborative media research tools: Atlas.ti, MediaCloud, Microsoft Office and Google Drive, markup languages (HTML and XML), OOP (java and python), Slack.
+* Peer reviewer for highly ranked journals such as New Media and Society, the Journal of Human Rights Practice, and the International Journal of Politics, Culture and Society.
+• Successfully applied for and administered grant (2019) for an ‘Empowering Women' program at St. John's College, Cambridge. Supported gender-inclusive weight training and facilities. 
+

@@ -1,5 +1,5 @@
 ---
-title: "Information Verification"
+title: "The Digital Information Verification Field"
 collection: publications
 permalink: /publication/2015-10-27-paper-information
 excerpt: 'This report is the result of The Whistle team’s review of the current digital information verification field. We examined the actors, their aims, and their processes in order to identify best practices, find potential partners in the field, and determine if there were any gaps The Whistle could fill.'
@@ -8,7 +8,6 @@ venue: 'The Whistle'
 paperurl: 'http://ral73.github.io/files/the-whistle-field-report.pdf'
 citation: 'Larsen, Rebekah. (2015). &quot;The Digital Information Verification Field.&quot; <i>The Whistle</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
 [Download paper here](http://ral73.github.io/files/the-whistle-field-report.pdf)
 

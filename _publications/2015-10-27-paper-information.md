@@ -6,11 +6,11 @@ excerpt: 'This report aims to map the field of initiatives involved in the verif
 This report is the result of The Whistle team’s review of the current digital information verification field. We examined the actors, their aims, and their processes in order to identify best practices, find potential partners in the field, and determine if there were any gaps The Whistle could fill.'
 date: 2015-10-27
 venue: 'The Whistle'
-paperurl: 'http://academicpages.github.io/files/TheDigitalInformationVerificationField.pdf'
+paperurl: 'https://ec.europa.eu/digital-single-market/en/news/study-personal-data-stores-conducted-cambridge-university-judge-business-school'
 citation: 'Larsen, Rebekah. (2015). &quot;The Digital Information Verification Field&quot; <i>The Whistle</i>.'
 ---
 
 
-[Download paper here](http://academicpages.github.io/files/TheDigitalInformationVerificationField.pdf)
+[Download paper here](https://ec.europa.eu/digital-single-market/en/news/study-personal-data-stores-conducted-cambridge-university-judge-business-school)
 
 Recommended citation: Larsen, Rebekah. (2015). "The Digital Information Verification Field." <i>The Whistle</i>.

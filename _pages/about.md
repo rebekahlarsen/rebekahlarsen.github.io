@@ -28,16 +28,7 @@ Sociological Research
 1.   
 1. 
 
-Header 2
-------
-[_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). 
 
-Header 3
-------
-
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
 
 

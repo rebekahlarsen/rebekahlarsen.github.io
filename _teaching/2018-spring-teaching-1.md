@@ -1,5 +1,5 @@
 ---
-title: "Supervising and Lecturing"
+title: "Supervising and Lecturing, University of Cambridge"
 collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/2018-spring-teaching-1

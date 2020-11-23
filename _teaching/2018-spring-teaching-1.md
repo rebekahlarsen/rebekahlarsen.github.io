@@ -1,5 +1,5 @@
 ---
-title: "Supervising and Lecturing, University of Cambridge"
+title: "Supervising and Lecturing, University of Cambridge, 2017 - 2019"
 collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/2018-spring-teaching-1
@@ -7,6 +7,10 @@ venue: "University of Cambridge, Department of Sociology"
 date: 2019-01-01
 location: "Cambridge, UK"
 ---
+
+Click on link above for more information and sample lecture slides.
+
+<br/><img src='/images/privacy-lecture-slide.png'>
 
 Sociology 3: Modern Societies (2017 - 2019)
 ======
@@ -18,7 +22,6 @@ Sociology 3: Modern Societies (2017 - 2019)
 	* Gender issues in online communities 
 	* The geopolitics of cultural and technological production in the digital age
 
-<br/><img src='/images/privacy-lecture-slide.png'>
 
 Sociology 7: Media, Culture, and Society (2016, 2019)
 ======

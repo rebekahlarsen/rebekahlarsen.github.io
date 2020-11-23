@@ -20,7 +20,8 @@ Education
 
 Work Experience 
 ======
-* 2015 - 2018: Founding Member and Market/User Researcher (The Whistle, <i>human rights reporting platform</i>)
+* 2015 - 2018, 2020: Founding Member and Researcher (The Whistle, <i>human rights reporting platform</i>)
+* 2020: Contract Consultant and Researcher (The Global Disinformation Index, <i>NGO aimed at countering disinformation</i>)
 * 2015 - 2016: Research Assistant (Faculty of Law, University of Cambridge)
 * 2012 - 2014: Legal Assistant (Skarzynski Black, <i>civil litigation law firm</i>)
 * 2009 - 2012: Content Assistant (WXPN, <i>National Public Radio affiliate</i>)
@@ -30,7 +31,7 @@ Skills
 ======
 * Mixed methods research 
   * Qualitative: interviewing, ethnography, content analysis
-  * Quantitative: data scraping, survey design and analysis
+  * Quantitative: data scraping, digital media collection and analysis
 * Project management
 * Effective collaboration on diverse teams
 * Communication

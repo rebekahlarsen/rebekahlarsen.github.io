@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a PhD candidate in Sociology at the [University of Cambridge](https://research.sociology.cam.ac.uk/profile/rebekah-larsen). <b>I am passionate about understanding--and improving--real world connections between tech and social life, both as a practitioner and a researcher.</b> I am excited about bettering tech by empathetically taking into account the experiences of different users and their identities. I also research and publish about how information moves online--what influences knowledge creation and 'news' in the digital age. 
+I recently, successfully defended my PhD in Sociology at the [University of Cambridge](https://research.sociology.cam.ac.uk/profile/rebekah-larsen) (December 2020). <b>I am passionate about understanding--and improving--real world connections between tech and social life, both as a practitioner and a researcher.</b> I am excited about bettering tech by empathetically taking into account the experiences of different users and their identities. I also research and publish about how information moves online--what influences knowledge creation and 'news' in the digital age. 
 
 <br/><img src='/images/rtbf-mapping.png'>
 

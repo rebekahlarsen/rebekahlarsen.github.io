@@ -20,6 +20,7 @@ Education
 
 Work Experience 
 ======
+* 2021 - 2023: Postdoctoral Fellow, Oslo Metropolitan University, Department of Journalism and Media, <i>working on journalistic approaches to misinformation</i>
 * 2015 - 2018, 2020: Founding Member and Research Associate ([The Whistle](http://thewhistle.org/), <i>human rights reporting platform</i>)
 * 2020: Contract Consultant and Researcher (The Global Disinformation Index, <i>NGO aimed at countering disinformation</i>)
 * 2015 - 2016: Research Assistant (Faculty of Law, University of Cambridge)

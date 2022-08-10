@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rebekah Larsen, Media and User Researcher"
+title                    : "Rebekah Larsen, Media Sociologist"
 title_separator          : "-"
 name                     : &name "Rebekah Larsen"
 description              : &description "personal description"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Rebekah Larsen"
   avatar           : "profile.png"
-  bio              : "PhD @ University of Cambridge, Department of Sociology. Interested in reflexive and empathetic research and design."
+  bio              : "PhD @ Oslo Metropolitan University, Department of Journalism and Media. Research Association @ University of Cambridge, Centre for Governance and Human Rights."
   location         : "Boston, MA"
-  employer         : "University of Cambridge"
+  employer         : "Oslo Metropolitan University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=8NBx6CMAAAAJ&hl=en"
   department       : "https://research.sociology.cam.ac.uk/profile/rebekah-larsen" 

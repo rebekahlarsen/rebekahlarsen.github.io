@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-12-02-disinformation-chapter
 excerpt: 'This chapter assesses and analyzes the sociotechnical infrastructures available to and potentially used in fact-checking, in the form of digital technologies associated with fact-checking. The chapter presents findings from an international and systematic assessment of digital technologies associated with fact-checking. For this assessment, we collected data from primary and secondary sources between fall 2020 and spring 2022. This assessment is guided by a sociotechnical framework that enables analysis of the interrelationships between humans and technology.'
 date: 2022-12-02
-venue: 'Chapter in Disinformation Studies: Perspectives in an emerging research field.'
+venue: 'Chapter in Disinformation Studies: Perspectives in an emerging research field'
 paperurl: 'https://labcomca.ubi.pt/en/disinformation-studies-perspectives-from-an-emerging-field/'
 citation: 'Westlund, Oscar, Larsen, R., L. Graves, L. Kavtaradze. (2022) “Technologies and fact-checking: a sociotechnical mapping and assessment”. Chapter in Disinformation Studies: Perspectives in an emerging research field. LabCom Books.'
 ---

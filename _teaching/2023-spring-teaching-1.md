@@ -10,8 +10,6 @@ location: "MIT, USA"
 
 Click on link above for more information and sample lecture slides.
 
-<br/><img src='/images/privacy-lecture-slide.png'>
-
 CMS 100: Introduction to Media Studies
 ======
 

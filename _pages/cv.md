@@ -20,6 +20,7 @@ Education
 
 Work Experience 
 ======
+* 2022 - 2023: Postdoctoral Associate and Lecturer, Comparative Media Studies, MIT
 * 2021 - 2023: Postdoctoral Fellow in the Department of Journalism and Media Studies, Oslo Metropolitan University
 * 2015 - 2018, 2020: Founding Member and Research Associate ([The Whistle](http://thewhistle.org/), <i>human rights reporting platform</i>)
 * 2020: Contract Consultant and Researcher (The Global Disinformation Index, <i>NGO aimed at countering disinformation</i>)
@@ -63,6 +64,6 @@ Extracurriculars
 * Avid rock climber and runner. Awarded a Collier Grant from the MIT Outdoor Club (2019 - 2020) to further outdoor inclusivity. Significant experience with outdoor environments, particularly in New England, the UK and the American West (Utah).
 * Digital methods training certificates from the University of Amsterdam's Digital Methods Institute (2018) and Boston University Department of Emerging Media Studies (2017).
 * Experience with collaborative media research tools: Atlas.ti, MediaCloud, Microsoft Office and Google Drive, markup languages (HTML and XML), OOP (java and python), Slack.
-* Peer reviewer for highly ranked journals such as New Media and Society, the Journal of Human Rights Practice, Big Data and Society, and the International Journal of Politics, Culture and Society.
+* Peer reviewer for highly ranked journals such as New Media and Society, Digital Journalism, the Journal of Human Rights Practice, Big Data and Society, and the International Journal of Politics, Culture and Society.
 * Successfully applied for and administered grant (2019) for an ‘Empowering Women' program at St. John's College, Cambridge. Supported gender-inclusive weight training and facilities. 
 

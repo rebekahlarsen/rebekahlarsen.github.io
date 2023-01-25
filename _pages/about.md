@@ -9,17 +9,17 @@ redirect_from:
 ---
 
 
-I am a postdoctoral associate at [MIT's Comparative Media Studies department] (https://cmsw.mit.edu/), teaching and researching through 2023. I am also a postdoctoral fellow in the Department of Journalism and Media @ Oslo Metropolitan University, and a Research Associate at Cambridge University's [Centre of Governance and Human Rights](https://www.cghr.polis.cam.ac.uk/).  At OsloMet (through July 2023) I am working with an [international, interdisciplinary](https://uni.oslomet.no/scam/) team to understand how newsrooms approach misinformation around elections, particularly the US elections. 
+I am a postdoctoral associate at [MIT's Comparative Media Studies department](https://cmsw.mit.edu/), teaching and researching through 2023. I am also a postdoctoral fellow in the Department of Journalism and Media @ Oslo Metropolitan University, and a Research Associate at Cambridge University's [Centre of Governance and Human Rights](https://www.cghr.polis.cam.ac.uk/).  At OsloMet (through July 2023) I am working with an [international, interdisciplinary](https://uni.oslomet.no/scam/) team to understand how newsrooms approach misinformation around elections, particularly the US elections. 
 
 
 <br/><img src='/images/radio-station.jpeg'>
 
 <br/><img src='/images/oil-carbon.jpeg'>
 
-<i>Images from fieldwork, interviewing at talk radio station in rural Utah, during the 2022 midterm elections.</i>
+<i>Images from fieldwork, interviewing at talk radio stations in rural Utah, during the 2022 US midterm elections.</i>
 
 
-My personal research agenda is currently focused on understudied media environments, with special focus on the rural, religion, and radio. Currently, I am researching on the Utah media ecosystem, mapping actors, networks, technologies, digital identities, and cultural influences.
+My personal research agenda is currently focused on understudied media environments, with special focus on the rural, religion, and radio. Currently, I am researching the Utah media ecosystem, mapping actors, networks, technologies, digital identities, and cultural/ideological influences.
 
 
 <br/><img src='/images/rtbf-mapping.png'>

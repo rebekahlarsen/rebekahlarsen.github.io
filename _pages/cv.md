@@ -16,7 +16,7 @@ Education
 ======
 * B.A. in Science, Technology, and Society Studies (STS), University of Pennsylvania, 2012
 * M.A. in Technology Policy, Judge Business School, University of Cambridge, 2015
-* Ph.D in Sociology, University of Cambridge, 2020 
+* Ph.D in Sociology, University of Cambridge,(approved 3/2021; conferred 9/2022)
 
 Work Experience 
 ======

@@ -26,7 +26,7 @@ My personal research agenda is currently focused on understudied media environme
 
 <i>This is a network rendering of the most visible news sources online discussing a privacy topic. This image is from my doctoral research.</i>
 
-I recently, successfully defended my PhD in Sociology at the [University of Cambridge](https://research.sociology.cam.ac.uk/profile/rebekah-larsen) (December 2020). <b>I research and publish about how information moves online--what influences knowledge creation and 'news' in the digital age. </b> I am passionate about understanding--and improving--real world connections between tech and social life, both as a practitioner and a researcher. I am keen to empathetically take into account different experiences and identities in understanding these connections. 
+I recently, successfully defended my PhD in Sociology at the [University of Cambridge](https://research.sociology.cam.ac.uk/profile/rebekah-larsen) (approved March 2021; conferred Sept 2022). <b>I research and publish about how information moves online--what influences knowledge creation and 'news' in the digital age. </b> I am passionate about understanding--and improving--real world connections between tech and social life, both as a practitioner and a researcher. I am keen to empathetically take into account different experiences and identities in understanding these connections. 
 
 
  

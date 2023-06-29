@@ -24,7 +24,7 @@ CMS 100: Introduction to Media Studies
 MIT's Kaufman Teaching Certificate Program
 ======
 
-* Accepted into MIT's Kaufman Teaching Certificate program (2023).
+* Accepted into and completed MIT's Kaufman Teaching Certificate program (2023).
 * Interactive, assessment-based workshops throughout spring 2023 to better evidence-based teaching practices.
 
 

@@ -20,8 +20,8 @@ Education
 
 Work Experience 
 ======
-//* 2023 - 2024: Berkman Klein Center Fellow, Harvard University Law School
-//* 2023 - 2024: Visiting Fellow, Internet Society Project, Yale University Law School
+* 2023 - 2024: Fellow, Berkman Klein Center (BKC), Harvard University 
+* 2023 - 2024: Visiting Fellow, Internet Society Project (ISP), Yale University Law School
 * 2022 - 2023: Postdoctoral Associate and Lecturer, Comparative Media Studies, MIT
 * 2021 - 2023: Postdoctoral Fellow in the Department of Journalism and Media Studies, Oslo Metropolitan University
 * 2015 - 2018, 2020: Founding researcher ([The Whistle](http://thewhistle.org/), <i>human rights reporting platform</i>)

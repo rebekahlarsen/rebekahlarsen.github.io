@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a postdoctoral associate at [MIT's Comparative Media Studies department](https://cmsw.mit.edu/), teaching and researching through 2023. I am also a postdoctoral fellow in the Department of Journalism and Media @ Oslo Metropolitan University, and a Research Associate at Cambridge University's [Centre of Governance and Human Rights](https://www.cghr.polis.cam.ac.uk/).  At OsloMet (through July 2023) I am working with an [international, interdisciplinary](https://uni.oslomet.no/scam/) team to understand how newsrooms approach misinformation around elections, particularly the US elections. 
+I am a postdoctoral associate at [MIT's Comparative Media Studies department](https://cmsw.mit.edu/), teaching and researching through August 2023. I am also a Research Associate at Cambridge University's [Centre of Governance and Human Rights](https://www.cghr.polis.cam.ac.uk/).  I just wrapped up a postdoc working with an [international, interdisciplinary](https://uni.oslomet.no/scam/) team to understand how newsrooms approach misinformation around elections, particularly the US elections. I was recently awarded a major research grant through the [prestigious EU Marie Curie programme](https://marie-sklodowska-curie-actions.ec.europa.eu/news/marie-sklodowska-curie-actions-award-eu257-million-to-postdoctoral-fellows-in-2022), which I will take up at the University of Copenhagen in summer 2024. First, during the 2023 - 2024 academic year, I will be a fellow at two major New England universities (to be announced soon). I am very much looking forward to three years of research time!
 
 
 <br/><img src='/images/radio-station.jpeg'>

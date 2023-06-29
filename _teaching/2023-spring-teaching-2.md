@@ -11,12 +11,11 @@ location: "MIT, USA"
 Click on link above for more information.
 
 
-MIT's Kaufman Teaching Certificate Program
+MIT's Kaufman Teaching Certificate 
 ======
 
-* Accepted into MIT's Kaufman Teaching Certificate program (Spring 2023).
-* Interactive, assessment-based workshops throughout spring 2023 to better evidence-based teaching practices.
-
+* Accepted into MIT's Kaufman Teaching Certificate program (Spring 2023), and completed in June 2023. 
+* The KTCP program consists of interactive, assessment-based workshops + assessed mock teaching.
 
 
 

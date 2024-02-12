@@ -19,7 +19,9 @@ This year (2023 - 2024), I am a Fellow at the [Berkman Klein Center](https://cyb
 <i>Images from fieldwork, interviewing at talk radio stations in rural Utah, during the 2022 US midterm elections.</i>
 
 
-My personal research agenda is currently focused on understudied media environments, with special focus on the rural, religion, and radio. Currently, I am researching the Utah media ecosystem, mapping actors, networks, technologies, digital identities, and cultural/ideological influences.
+I am interested in how diverse phenomenon and structures, from AI systems to newsroom composition to political history, interweave and impact how controversial topics are defined--and how they impact power relations in society. I am currently working on a manuscript that examines a sticky privacy concept, the Right to be Forgotten, in terms of how it was defined ten years ago by a panicked press...and the impacts we see today in platform power. 
+
+My second main project focuses on media environments deeply affected by religion, rurality, and radio. Currently, I am researching the Utah media ecosystem, mapping actors, networks, technologies, digital identities, and cultural/ideological influences.
 
 
 <br/><img src='/images/rtbf-mapping.png'>

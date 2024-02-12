@@ -12,7 +12,6 @@ redirect_from:
 This year (2023 - 2024), I am a Fellow at the [Berkman Klein Center](https://cyber.harvard.edu/story/2023-07/berkman-klein-center-announces-incoming-2023-2024-fellows) (Harvard University) as well as a Visiting Fellow at the [Information Society Project](https://law.yale.edu/isp) (Yale Law School). I am also a Research Associate at Cambridge University's [Centre of Governance and Human Rights](https://www.cghr.polis.cam.ac.uk/).  I just wrapped up a postdoc working with an [international, interdisciplinary](https://uni.oslomet.no/scam/) team to understand how newsrooms approach misinformation around elections, particularly in the US. I was also a lecturer and postdoctoral associate at MIT's CMSW department during this time. I was recently awarded a major research grant through the [prestigious EU Marie Curie programme](https://cordis.europa.eu/project/id/101109725), which I will take up at the University of Copenhagen in summer 2024. I am very much looking forward to three years of research time!
 
 <br/>
-
 I am interested in how diverse phenomenon and structures, from AI systems to newsroom composition to political history, interweave and impact how controversial topics are defined--and how they impact power relations in society. I am currently working on a manuscript that examines a sticky privacy concept, the Right to be Forgotten, in terms of how it was defined ten years ago by a panicked press...and the impacts we see today in platform power. 
 
 <br/><img src='/images/rtbf-mapping.png'>

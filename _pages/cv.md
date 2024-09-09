@@ -20,12 +20,13 @@ Education
 
 Work Experience 
 ======
-* 2023 - 2024: Fellow, Berkman Klein Center (BKC), Harvard University 
+* Current: Marie Curie Fellow, Department of Communication, University of Copenhagen
+* 2023 - 2024: [Fellow, Berkman Klein Center (BKC)](https://cyber.harvard.edu/people/rebekah-larsen), Harvard University 
 * 2023 - 2024: Visiting Fellow, Internet Society Project (ISP), Yale University Law School
 * 2022 - 2023: Postdoctoral Associate and Lecturer, Comparative Media Studies, MIT
 * 2021 - 2023: Postdoctoral Fellow in the Department of Journalism and Media Studies, Oslo Metropolitan University
 * 2015 - 2018, 2020: Founding researcher ([The Whistle](http://thewhistle.org/), <i>human rights reporting platform</i>)
-* 2020: Contract Consultant and Researcher (The Global Disinformation Index
+* 2020 - Consultant Researcher (The Global Disinformation Index)
 * 2015 - 2016: Research Assistant (Faculty of Law, University of Cambridge)
 * 2012 - 2014: Legal Assistant (Skarzynski Black, <i>civil litigation law firm</i>)
 * 2009 - 2012: Content Assistant (WXPN, <i>National Public Radio affiliate</i>)
@@ -65,6 +66,6 @@ Select Activities
 ======
 * Avid rock climber and runner. Awarded a Collier Grant from the MIT Outdoor Club (2019 - 2020) to further outdoor inclusivity. Significant experience with outdoor environments, particularly in New England, the UK and the American West (Utah).
 * Digital methods training certificates from the University of Amsterdam's Digital Methods Institute (2018) and Boston University Department of Emerging Media Studies (2017).
-* Experience with collaborative media research tools: Atlas.ti, MediaCloud, Microsoft Office and Google Drive, markup languages (HTML and XML), OOP (java and python), Slack.
-* Peer reviewer for highly ranked journals such as New Media and Society, Digital Journalism, the Journal of Human Rights Practice, Big Data and Society, and the International Journal of Politics, Culture and Society.
+* Experience with collaborative media research tools: Atlas.ti, MediaCloud, Microsoft Office and Google Drive, markup languages (HTML and XML), OOP (java and python).
+* Peer reviewer for highly ranked journals such as New Media and Society, Digital Journalism, Sociology Compass, the Journal of Human Rights Practice, Big Data and Society, and the International Journal of Politics, Culture and Society.
 

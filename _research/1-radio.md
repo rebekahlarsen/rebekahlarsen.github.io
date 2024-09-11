@@ -1,5 +1,5 @@
 ---
-title: "<em>Research Project</em>:The Utah Media Ecosystem"
+title: "<em>Research Project</em>: The Utah Media Ecosystem"
 excerpt: "This research stream, currently funded by a Horizon Europe grant, engages explicitly with media environments deeply affected by religion, rurality, and radio. Currently, I am exploring the Utah media ecosystem as an insightful case study, mapping actors, networks, technologies, digital identities, and cultural/ideological influences.  <br/><br/><img src='/images/oil-carbon.jpeg'> 
 	<br/>
 

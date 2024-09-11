@@ -1,8 +1,9 @@
 ---
 title: "Right to be Forgotten Research Stream"
-excerpt: "<em>Right to be Forgoten</em> is a book project. Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "<em>The Right to Be Forgotten Decade: Definitional Battles and Platform Power</em> is my first solo monograph. Based on  <br/><img src='images/rtbf-mapping.png'> <br/> 
+<i>This is a network rendering of the most visible sources for coverage of a controversial privacy concept in the 2010s.</i>"
 collection: projects
-permalink: /projects/rtbf
+permalink: /projects/2-rtbf
 
 ---
 

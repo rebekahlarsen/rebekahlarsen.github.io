@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  research:
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:

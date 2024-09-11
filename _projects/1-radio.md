@@ -6,7 +6,6 @@ excerpt: "This research stream engages explicitly with understudied media enviro
 	<i>Image from 2022 fieldwork, which included interviews at several talk radio stations. This image was taken in Carbon county, a rural region with a deep history of oil and coal production.</i>
 "
 collection: projects
-url: https://cordis.europa.eu/project/id/101109725
 ---
 
 

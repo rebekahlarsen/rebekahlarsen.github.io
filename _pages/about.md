@@ -10,22 +10,6 @@ I am an early career media sociologist with a PhD from Cambridge University. I a
 
 <b>Broadly, my work uncovers and analyses understudied media ecosystems, particularly those with insightful relations to the ‘traditional press’ and concepts of dis/misinformation. I pay special attention to sociotechnical change, reproduction of discourse, and power relations within these systems.</b> My scholarly sites of inquiry range from conservative talk radio stations in rural Utah (and [on-the-ground research in conservative spaces](https://researchwiththeright.wordpress.com/)), to the [new global network of fact checkers funded by social media platform content moderation contracts](https://ijoc.org/index.php/ijoc/article/view/19851), to [search engine manipulation of journalists and activists](https://journals.sagepub.com/doi/full/10.1177/1461444820912534) around a controversial 2010s privacy regulation. Informed by cultural studies, media sociology, and conjunctural analysis, I use a blend of ethnographic, textual, and network mapping methods. My work also engages in reflexive critique of digital media research methods.
 
-
-<br/><img src='/images/rtbf-mapping.png'>
-
-<i>This is a network rendering of the most visible sources for coverage of a controversial privacy concept in the 2010s.</i> The above image is from my doctoral research, which I am currently turning into a book entitled <u> The Right to Be Forgotten Decade: Definitional Battles and Platform Power </u>.
-
-
-<br/><img src='/images/radio-station.jpeg'>
-
-<br/><img src='/images/oil-carbon.jpeg'>
-
-<i>Images from fieldwork, interviewing at talk radio stations in rural Utah, during the 2022 US midterm elections.</i>
-
-My second main project focuses on media environments deeply affected by religion, rurality, and radio. Currently, I am exploring the Utah media ecosystem as an insightful case study , mapping actors, networks, technologies, digital identities, and cultural/ideological influences.
-
-
-
  
 Feel free to reach out if you have any questions about my work, ideas for collaboration, or you just want to have a conversation. 
 

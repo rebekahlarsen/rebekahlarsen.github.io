@@ -6,11 +6,9 @@ excerpt: "This research stream engages explicitly with understudied media enviro
 	<i>Image from 2022 fieldwork, which included interviews at several talk radio stations. This image was taken in Carbon county, a rural region with a deep history of oil and coal production.</i>
 "
 collection: projects
+url: https://cordis.europa.eu/project/id/101109725
 ---
 
-This project, funded by a Horizon Europe grant (2024 - 2026) is both exploratory and explanative. 
-
-Informed by ongoing mapping of key influences, actors, and discourses in Utah media, current areas of focus include: a) journalistic functions of talk radio stations that also syndicate extremist content; and b) the sociotechnical influences exerted by the majority religion (LDS or Mormon) on local and global media flows. 
 
 
 

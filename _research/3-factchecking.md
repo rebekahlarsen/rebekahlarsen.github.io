@@ -1,5 +1,5 @@
 ---
-title: "<em>Research Collaborative</em> <br/>
+title: "<em>Research Collaborative</em>:
 Source Criticism and Mediated Disinformation"
 excerpt: "This international group of scholars, funded by the Norwegian Research Council (2021 - ongoing), engage in critical, empirical analysis of the challenges tech and platform companies, fact checking organisations, and journalists face when addressing disinformation. The project also explores ways to detect and counter disinformation, specifically during periods of elections<br/><br /><img src='/images/global-fact9.jpg'>
 	<br />

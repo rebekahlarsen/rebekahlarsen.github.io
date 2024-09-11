@@ -1,10 +1,10 @@
 ---
 title: "The Utah Media Ecosystem: Radio, Religion, and Rurality (2022 - Present)"
-excerpt: "This research stream engages explicitly with understudied contemporary media environments—especially those characterized the ‘rightwing’, broadcast media, rural vs. urban divides, and religion. <br/><img src='/images/oil-carbon.jpeg'> The current case study of focus is the US state of Utah, using a blend of ethnographic, network mapping, and content analysis methods.
+excerpt: "This research stream engages explicitly with understudied contemporary media environments—especially those characterized the ‘rightwing’, broadcast media, rural vs. urban divides, and religion.The current case study of focus is the US state of Utah, using a blend of ethnographic, network mapping, and content analysis methods. <br/><br/><img src='/images/oil-carbon.jpeg'> 
 
-	<br/><br/>
+	<br/>
 
-	<i>Image from 2022 fieldwork, which included interviews at several talk radio stations in rural Utah. This image was taken in Carbon county, a region characterized by oil and coal production.</i>
+	<i>Image from 2022 fieldwork, which included interviews at several talk radio stations. This image was taken in Carbon county, a rural region with a deep history of oil and coal production.</i>
 "
 collection: projects
 ---

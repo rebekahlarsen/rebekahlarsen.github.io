@@ -5,7 +5,7 @@ excerpt: "This international group of scholars, funded by the Norwegian Research
 	<br />
 	<i>Image from the 2022 Global Fact conference, the annual fact checking summit, which was hosted by the team in Oslo.</i>
 	"
-collection: projects
+collection: research
 ---
 
 

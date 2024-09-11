@@ -5,7 +5,7 @@ excerpt: "This research stream, currently funded by a Horizon Europe grant, enga
 
 	<i>Image taken during fieldwork during US elections, which included interviews at several talk radio stations. This image was taken in Carbon county, a rural region with a deep history of oil and coal production.</i>
 "
-collection: projects
+collection: research
 ---
 
 Methods are mainly ethnographic, but include some network mapping and content analysis.

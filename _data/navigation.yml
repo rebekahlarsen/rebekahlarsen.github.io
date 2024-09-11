@@ -6,10 +6,6 @@ main:
 
   - title: "Publications"
     url: /publications/     
-    
-  <!--- 
-  title: "Talks and Presentations"
-    url: /talks/ -->
 
   - title: "Teaching"
     url: /teaching/ 

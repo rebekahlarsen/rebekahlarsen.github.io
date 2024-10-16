@@ -1,7 +1,7 @@
 ---
 title: "Research Collaborative - 
 <em>Source Criticism and Mediated Disinformation</em>"
-excerpt: "This team of international scholars engages in critical, empirical analysis of the challenges tech and platform companies, fact checking organisations, and journalists face when addressing disinformation. The 'SCAM' project also explores ways to detect and counter disinformation, specifically during periods of elections<br/><br /><img src='/images/global-fact9.jpg'>
+excerpt: "This team of international scholars engages in critical, empirical analysis of the challenges tech and platform companies, fact checking organisations, and journalists face when addressing disinformation. The 'SCAM' project also explores ways to detect and counter disinformation, specifically during periods of elections.<br/><br /><img src='/images/global-fact9.jpg'>
 	<br />
 	<i>Image from the 2022 Global Fact conference, the annual fact checking summit, which was hosted by the team in Oslo.</i>
 	"

@@ -15,7 +15,7 @@ At the core of this multi-year project are two intense periods of data collectio
 Given this project's on-the-ground nature and focus in highly conservative communities, outcomes of this project are also oriented toward bettering this type of research. First steps included an inaugural preconference at the 2024 American Sociological Association entitled ['On-The-Ground Research with the Right in 2024'](https://researchwiththeright.wordpress.com/). 
 
 <b>Upcoming events</b>, presenting initial findings on the journalistic roles and conflicted identities of rural talk radio stations:
-- Harvard University's [Politics and Social Change Workshop](https://wcfia.harvard.edu/seminars/politics-social-change) (26 September 2024)
+- Harvard University's [Politics and Social Change Workshop](https://www.wcfia.harvard.edu/event/politics-and-social-change-workshop-09-26-24) (26 September 2024)
 - [Association of Internet Researchers Conference](https://aoir.org/aoir2024/) (1 November 2024)
 
 <br/>

@@ -20,7 +20,8 @@ Education
 
 Work Experience 
 ======
-* Current: Marie Curie Fellow, Department of Communication, University of Copenhagen
+* 2025 - Present: Assistant Professor, [Comparative Media Studies / Writing](https://cmsw.mit.edu/), Massachusetts Institute of Technology
+* 2024 - 2025: Marie Curie Fellow, [Department of Communication](https://researchprofiles.ku.dk/en/persons/rebekah-ann-larsen), University of Copenhagen
 * 2023 - 2024: [Fellow, Berkman Klein Center (BKC)](https://cyber.harvard.edu/people/rebekah-larsen), Harvard University 
 * 2023 - 2024: Visiting Fellow, Internet Society Project (ISP), Yale University Law School
 * 2022 - 2023: Postdoctoral Associate and Lecturer, Comparative Media Studies, MIT

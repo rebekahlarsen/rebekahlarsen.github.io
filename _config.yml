@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Rebekah Larsen"
   avatar           : "profile.png"
-  bio              : "Marie Curie Fellow (University of Copenhagen) and Affiliate, Berkman Klein Center (Harvard)"
-  location         : "Boston, MA and Copenhagen, DK"
-  employer         : "University of Copenhagen"
+  bio              : "Assistant Professor, Comparative Media Studies"
+  location         : "Boston, MA"
+  employer         : "MIT"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=8NBx6CMAAAAJ&hl=en"
-  department       :  "https://cyber.harvard.edu/people/rebekah-larsen"
+  department       :  "https://cmsw.mit.edu/profile/rebekah-larsen/"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

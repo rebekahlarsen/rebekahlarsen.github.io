@@ -16,10 +16,12 @@ Education
 ======
 * B.A. in Science, Technology, and Society Studies (STS), University of Pennsylvania, 2012
 * M.A. in Technology Policy, Judge Business School, University of Cambridge, 2015
-* Ph.D in Sociology, University of Cambridge,(approved 3/2021; conferred 9/2022)
+* Ph.D in Sociology, University of Cambridge, (approved 3/2021; conferred 9/2022)
 
 Work Experience 
 ======
+* 2025 - Present: Assistant Professor, [Comparative Media Studies / Writing](https://cmsw.mit.edu/), Massachusetts Institute of Technology
+*  2024 - 2025: Marie Curie Fellow, [Department of Communication](https://researchprofiles.ku.dk/en/persons/rebekah-ann-larsen), University of Copenhagen
 * 2023 - 2024: Fellow, Berkman Klein Center (BKC), Harvard University 
 * 2023 - 2024: Visiting Fellow, Internet Society Project (ISP), Yale University Law School
 * 2022 - 2023: Postdoctoral Associate and Lecturer, Comparative Media Studies, MIT

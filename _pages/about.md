@@ -6,8 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an early career media sociologist with a PhD from Cambridge University. <b>Broadly, my work uncovers and analyses understudied media ecosystems, particularly those with insightful relations to the ‘traditional press’ and concepts of dis/misinformation. I pay special attention to sociotechnical change, reproduction of discourse, and power relations within these systems.</b> My scholarly sites of inquiry include:
-- Conservative talk radio stations in rural Utah (and [ethnographic work in conservative spaces](https://researchwiththeright.wordpress.com/));
+I am an early career media sociologist with a PhD from Cambridge University. <b>Broadly, my work uncovers and analyses understudied media ecosystems, particularly those with insightful relations to the traditional press. I pay special attention to sociotechnical change, reproduction of discourse, and power relations within these systems.</b> My scholarly sites of inquiry include:
+- Regional media ecosystems in the US, characterized by stark rural/urban divides and significant religious influences;
 - The [new global network of fact checkers funded by social media platform content moderation contracts](https://ijoc.org/index.php/ijoc/article/view/19851); 
 - [Search engine manipulation of journalists and activists](https://journals.sagepub.com/doi/full/10.1177/1461444820912534) around a controversial 2010s privacy regulation. 
 
